@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/mjdyx/Documents/C++/IncludeTestSet/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9   -I/home/mjdyx/Documents/C++/include  -O3 -DNDEBUG   -std=c++17 -march=native -o CMakeFiles/IncludeTestSet.dir/IncludeTestSet.cpp.o -c /home/mjdyx/Documents/C++/IncludeTestSet/IncludeTestSet.cpp",
+  "file": "/home/mjdyx/Documents/C++/IncludeTestSet/IncludeTestSet.cpp"
+}
+]
